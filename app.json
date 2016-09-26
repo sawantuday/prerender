@@ -1,0 +1,7 @@
+{
+  "name": "Prender",
+  "description": "Prerender server",
+  "repository": "https://github.com/sawantuday/prerender",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
